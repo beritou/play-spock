@@ -5,9 +5,6 @@ import org.hamcrest.CoreMatchers._
 import java.io.File
 import java.lang.Class
 
-/**
- * @author Jakub Torbicki
- */
 class GroovyTestRunner {
 
     val rootPackage = "com.xyz.groovy"
